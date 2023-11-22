@@ -49,7 +49,7 @@
     "@metamask/post-message-stream": "^7.0.0",
     "@metamask/providers": "^14.0.1",
     "@metamask/rpc-errors": "^6.1.0",
-    "@metamask/snaps-sdk": "workspace:^",
+    "@metamask/snaps-sdk": "/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz",
     "@metamask/snaps-utils": "workspace:^",
     "@metamask/utils": "^8.2.1",
     "nanoid": "^3.1.31",

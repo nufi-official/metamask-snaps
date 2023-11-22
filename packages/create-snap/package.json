@@ -43,7 +43,7 @@
     "lint:dependencies": "depcheck"
   },
   "dependencies": {
-    "@metamask/snaps-utils": "workspace:^",
+    "@metamask/snaps-utils": "/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz",
     "@metamask/utils": "^8.2.1",
     "yargs": "^17.7.1"
   },

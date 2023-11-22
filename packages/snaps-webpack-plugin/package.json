@@ -39,8 +39,8 @@
     "lint:dependencies": "depcheck"
   },
   "dependencies": {
-    "@metamask/snaps-sdk": "workspace:^",
-    "@metamask/snaps-utils": "workspace:^",
+    "@metamask/snaps-sdk": "/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz",
+    "@metamask/snaps-utils": "/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz",
     "@metamask/utils": "^8.2.1",
     "webpack-sources": "^3.2.3"
   },

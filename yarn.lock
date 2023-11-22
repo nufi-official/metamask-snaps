@@ -4012,7 +4012,7 @@ __metadata:
     "@metamask/eslint-config-jest": ^12.1.0
     "@metamask/eslint-config-nodejs": ^12.1.0
     "@metamask/eslint-config-typescript": ^12.1.0
-    "@metamask/snaps-utils": "workspace:^"
+    "@metamask/snaps-utils": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz
     "@metamask/utils": ^8.2.1
     "@swc/cli": ^0.1.62
     "@swc/core": 1.3.78
@@ -4604,6 +4604,664 @@ __metadata:
   languageName: unknown
   linkType: soft
 
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-rpc-methods%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-rpc-methods%2Frpc-methods-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-controllers%2540workspace%253Apackages%252Fsnaps-controllers":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-rpc-methods%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-rpc-methods%2Frpc-methods-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-controllers%2540workspace%253Apackages%252Fsnaps-controllers"
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-rpc-methods%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-rpc-methods%2Frpc-methods-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-simulator%2540workspace%253Apackages%252Fsnaps-simulator":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-rpc-methods%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-rpc-methods%2Frpc-methods-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-simulator%2540workspace%253Apackages%252Fsnaps-simulator"
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-rpc-methods%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-rpc-methods%2Frpc-methods-0.tgz%3A%3Alocator%3Droot%2540workspace%253A.":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-rpc-methods%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-rpc-methods%2Frpc-methods-0.tgz%3A%3Alocator%3Droot%2540workspace%253A."
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-rpc-methods%40workspace%3Apackages%2Fsnaps-rpc-methods":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-rpc-methods%40workspace%3Apackages%2Fsnaps-rpc-methods"
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-cli%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-cli%252Fcli-0.tgz%253A%253Alocator%253Droot%252540workspace%25253A.":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-cli%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-cli%252Fcli-0.tgz%253A%253Alocator%253Droot%252540workspace%25253A."
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-cli%2540workspace%253Apackages%252Fsnaps-cli":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-cli%2540workspace%253Apackages%252Fsnaps-cli"
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-controllers%2540workspace%253Apackages%252Fsnaps-controllers":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-controllers%2540workspace%253Apackages%252Fsnaps-controllers"
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-execution-environments%2540workspace%253Apackages%252Fsnaps-execution-environments":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-execution-environments%2540workspace%253Apackages%252Fsnaps-execution-environments"
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-jest%2540workspace%253Apackages%252Fsnaps-jest":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-jest%2540workspace%253Apackages%252Fsnaps-jest"
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-rpc-methods%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-rpc-methods%252Frpc-methods-0.tgz%253A%253Alocator%253D%252540metamask%25252Fsnaps-controllers%252540workspace%25253Apackages%25252Fsnaps-controllers":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-rpc-methods%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-rpc-methods%252Frpc-methods-0.tgz%253A%253Alocator%253D%252540metamask%25252Fsnaps-controllers%252540workspace%25253Apackages%25252Fsnaps-controllers"
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-rpc-methods%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-rpc-methods%252Frpc-methods-0.tgz%253A%253Alocator%253D%252540metamask%25252Fsnaps-simulator%252540workspace%25253Apackages%25252Fsnaps-simulator":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-rpc-methods%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-rpc-methods%252Frpc-methods-0.tgz%253A%253Alocator%253D%252540metamask%25252Fsnaps-simulator%252540workspace%25253Apackages%25252Fsnaps-simulator"
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-rpc-methods%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-rpc-methods%252Frpc-methods-0.tgz%253A%253Alocator%253Droot%252540workspace%25253A.":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-rpc-methods%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-rpc-methods%252Frpc-methods-0.tgz%253A%253Alocator%253Droot%252540workspace%25253A."
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-rpc-methods%2540workspace%253Apackages%252Fsnaps-rpc-methods":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-rpc-methods%2540workspace%253Apackages%252Fsnaps-rpc-methods"
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-simulator%2540workspace%253Apackages%252Fsnaps-simulator":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-simulator%2540workspace%253Apackages%252Fsnaps-simulator"
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-utils%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-utils%252Fsnap-utils-0.tgz%253A%253Alocator%253D%252540metamask%25252Fcreate-snap%252540workspace%25253Apackages%25252Fcreate-snap":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-utils%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-utils%252Fsnap-utils-0.tgz%253A%253Alocator%253D%252540metamask%25252Fcreate-snap%252540workspace%25253Apackages%25252Fcreate-snap"
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-utils%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-utils%252Fsnap-utils-0.tgz%253A%253Alocator%253D%252540metamask%25252Fsnaps-browserify-plugin%252540workspace%25253Apackages%25252Fsnaps-browserify-plugin":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-utils%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-utils%252Fsnap-utils-0.tgz%253A%253Alocator%253D%252540metamask%25252Fsnaps-browserify-plugin%252540workspace%25253Apackages%25252Fsnaps-browserify-plugin"
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-utils%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-utils%252Fsnap-utils-0.tgz%253A%253Alocator%253D%252540metamask%25252Fsnaps-cli%252540file%25253A%25252Fhome%25252Fpeter%25252Fvl%25252Fnufi-official%25252Fmetamask-snaps%25252Fpackages%25252Fsnaps-cli%25252Fcli-0.tgz%25253A%25253Alocator%25253Droot%25252540workspace%2525253A.":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-utils%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-utils%252Fsnap-utils-0.tgz%253A%253Alocator%253D%252540metamask%25252Fsnaps-cli%252540file%25253A%25252Fhome%25252Fpeter%25252Fvl%25252Fnufi-official%25252Fmetamask-snaps%25252Fpackages%25252Fsnaps-cli%25252Fcli-0.tgz%25253A%25253Alocator%25253Droot%25252540workspace%2525253A."
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-utils%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-utils%252Fsnap-utils-0.tgz%253A%253Alocator%253D%252540metamask%25252Fsnaps-cli%252540workspace%25253Apackages%25252Fsnaps-cli":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-utils%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-utils%252Fsnap-utils-0.tgz%253A%253Alocator%253D%252540metamask%25252Fsnaps-cli%252540workspace%25253Apackages%25252Fsnaps-cli"
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-utils%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-utils%252Fsnap-utils-0.tgz%253A%253Alocator%253D%252540metamask%25252Fsnaps-controllers%252540workspace%25253Apackages%25252Fsnaps-controllers":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-utils%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-utils%252Fsnap-utils-0.tgz%253A%253Alocator%253D%252540metamask%25252Fsnaps-controllers%252540workspace%25253Apackages%25252Fsnaps-controllers"
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-utils%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-utils%252Fsnap-utils-0.tgz%253A%253Alocator%253D%252540metamask%25252Fsnaps-jest%252540workspace%25253Apackages%25252Fsnaps-jest":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-utils%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-utils%252Fsnap-utils-0.tgz%253A%253Alocator%253D%252540metamask%25252Fsnaps-jest%252540workspace%25253Apackages%25252Fsnaps-jest"
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-utils%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-utils%252Fsnap-utils-0.tgz%253A%253Alocator%253D%252540metamask%25252Fsnaps-rpc-methods%252540file%25253A%25252Fhome%25252Fpeter%25252Fvl%25252Fnufi-official%25252Fmetamask-snaps%25252Fpackages%25252Fsnaps-rpc-methods%25252Frpc-methods-0.tgz%25253A%25253Alocator%25253D%25252540metamask%2525252Fsnaps-controllers%25252540workspace%2525253Apackages%2525252Fsnaps-controllers":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-utils%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-utils%252Fsnap-utils-0.tgz%253A%253Alocator%253D%252540metamask%25252Fsnaps-rpc-methods%252540file%25253A%25252Fhome%25252Fpeter%25252Fvl%25252Fnufi-official%25252Fmetamask-snaps%25252Fpackages%25252Fsnaps-rpc-methods%25252Frpc-methods-0.tgz%25253A%25253Alocator%25253D%25252540metamask%2525252Fsnaps-controllers%25252540workspace%2525253Apackages%2525252Fsnaps-controllers"
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-utils%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-utils%252Fsnap-utils-0.tgz%253A%253Alocator%253D%252540metamask%25252Fsnaps-rpc-methods%252540file%25253A%25252Fhome%25252Fpeter%25252Fvl%25252Fnufi-official%25252Fmetamask-snaps%25252Fpackages%25252Fsnaps-rpc-methods%25252Frpc-methods-0.tgz%25253A%25253Alocator%25253D%25252540metamask%2525252Fsnaps-simulator%25252540workspace%2525253Apackages%2525252Fsnaps-simulator":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-utils%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-utils%252Fsnap-utils-0.tgz%253A%253Alocator%253D%252540metamask%25252Fsnaps-rpc-methods%252540file%25253A%25252Fhome%25252Fpeter%25252Fvl%25252Fnufi-official%25252Fmetamask-snaps%25252Fpackages%25252Fsnaps-rpc-methods%25252Frpc-methods-0.tgz%25253A%25253Alocator%25253D%25252540metamask%2525252Fsnaps-simulator%25252540workspace%2525253Apackages%2525252Fsnaps-simulator"
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-utils%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-utils%252Fsnap-utils-0.tgz%253A%253Alocator%253D%252540metamask%25252Fsnaps-rpc-methods%252540file%25253A%25252Fhome%25252Fpeter%25252Fvl%25252Fnufi-official%25252Fmetamask-snaps%25252Fpackages%25252Fsnaps-rpc-methods%25252Frpc-methods-0.tgz%25253A%25253Alocator%25253Droot%25252540workspace%2525253A.":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-utils%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-utils%252Fsnap-utils-0.tgz%253A%253Alocator%253D%252540metamask%25252Fsnaps-rpc-methods%252540file%25253A%25252Fhome%25252Fpeter%25252Fvl%25252Fnufi-official%25252Fmetamask-snaps%25252Fpackages%25252Fsnaps-rpc-methods%25252Frpc-methods-0.tgz%25253A%25253Alocator%25253Droot%25252540workspace%2525253A."
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-utils%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-utils%252Fsnap-utils-0.tgz%253A%253Alocator%253D%252540metamask%25252Fsnaps-rpc-methods%252540workspace%25253Apackages%25252Fsnaps-rpc-methods":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-utils%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-utils%252Fsnap-utils-0.tgz%253A%253Alocator%253D%252540metamask%25252Fsnaps-rpc-methods%252540workspace%25253Apackages%25252Fsnaps-rpc-methods"
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-utils%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-utils%252Fsnap-utils-0.tgz%253A%253Alocator%253D%252540metamask%25252Fsnaps-simulator%252540workspace%25253Apackages%25252Fsnaps-simulator":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-utils%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-utils%252Fsnap-utils-0.tgz%253A%253Alocator%253D%252540metamask%25252Fsnaps-simulator%252540workspace%25253Apackages%25252Fsnaps-simulator"
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-utils%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-utils%252Fsnap-utils-0.tgz%253A%253Alocator%253D%252540metamask%25252Fsnaps-webpack-plugin%252540workspace%25253Apackages%25252Fsnaps-webpack-plugin":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-utils%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-utils%252Fsnap-utils-0.tgz%253A%253Alocator%253D%252540metamask%25252Fsnaps-webpack-plugin%252540workspace%25253Apackages%25252Fsnaps-webpack-plugin"
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-utils%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-utils%252Fsnap-utils-0.tgz%253A%253Alocator%253Droot%252540workspace%25253A.":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-utils%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-utils%252Fsnap-utils-0.tgz%253A%253Alocator%253Droot%252540workspace%25253A."
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-utils%2540workspace%253Apackages%252Fsnaps-utils":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-utils%2540workspace%253Apackages%252Fsnaps-utils"
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-webpack-plugin%2540workspace%253Apackages%252Fsnaps-webpack-plugin":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-webpack-plugin%2540workspace%253Apackages%252Fsnaps-webpack-plugin"
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3Droot%2540workspace%253A.":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-sdk%2Fsnap-sdk-0.tgz%3A%3Alocator%3Droot%2540workspace%253A."
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40workspace%3Apackages%2Fsnaps-sdk":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-sdk%40workspace%3Apackages%2Fsnaps-sdk"
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-simulator%40workspace%3Apackages%2Fsnaps-simulator":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-simulator%40workspace%3Apackages%2Fsnaps-simulator"
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fcreate-snap%2540workspace%253Apackages%252Fcreate-snap":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fcreate-snap%2540workspace%253Apackages%252Fcreate-snap"
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-browserify-plugin%2540workspace%253Apackages%252Fsnaps-browserify-plugin":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-browserify-plugin%2540workspace%253Apackages%252Fsnaps-browserify-plugin"
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-cli%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-cli%252Fcli-0.tgz%253A%253Alocator%253Droot%252540workspace%25253A.":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-cli%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-cli%252Fcli-0.tgz%253A%253Alocator%253Droot%252540workspace%25253A."
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-cli%2540workspace%253Apackages%252Fsnaps-cli":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-cli%2540workspace%253Apackages%252Fsnaps-cli"
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-controllers%2540workspace%253Apackages%252Fsnaps-controllers":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-controllers%2540workspace%253Apackages%252Fsnaps-controllers"
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-jest%2540workspace%253Apackages%252Fsnaps-jest":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-jest%2540workspace%253Apackages%252Fsnaps-jest"
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-rpc-methods%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-rpc-methods%252Frpc-methods-0.tgz%253A%253Alocator%253D%252540metamask%25252Fsnaps-controllers%252540workspace%25253Apackages%25252Fsnaps-controllers":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-rpc-methods%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-rpc-methods%252Frpc-methods-0.tgz%253A%253Alocator%253D%252540metamask%25252Fsnaps-controllers%252540workspace%25253Apackages%25252Fsnaps-controllers"
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-rpc-methods%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-rpc-methods%252Frpc-methods-0.tgz%253A%253Alocator%253D%252540metamask%25252Fsnaps-simulator%252540workspace%25253Apackages%25252Fsnaps-simulator":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-rpc-methods%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-rpc-methods%252Frpc-methods-0.tgz%253A%253Alocator%253D%252540metamask%25252Fsnaps-simulator%252540workspace%25253Apackages%25252Fsnaps-simulator"
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-rpc-methods%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-rpc-methods%252Frpc-methods-0.tgz%253A%253Alocator%253Droot%252540workspace%25253A.":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-rpc-methods%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-rpc-methods%252Frpc-methods-0.tgz%253A%253Alocator%253Droot%252540workspace%25253A."
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-rpc-methods%2540workspace%253Apackages%252Fsnaps-rpc-methods":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-rpc-methods%2540workspace%253Apackages%252Fsnaps-rpc-methods"
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-simulator%2540workspace%253Apackages%252Fsnaps-simulator":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-simulator%2540workspace%253Apackages%252Fsnaps-simulator"
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-webpack-plugin%2540workspace%253Apackages%252Fsnaps-webpack-plugin":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-webpack-plugin%2540workspace%253Apackages%252Fsnaps-webpack-plugin"
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3Droot%2540workspace%253A.":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3Droot%2540workspace%253A."
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-utils%40workspace%3Apackages%2Fsnaps-utils":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=%40metamask%2Fsnaps-utils%40workspace%3Apackages%2Fsnaps-utils"
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
+"@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=root%40workspace%3A.":
+  version: 9.0.1
+  resolution: "@metamask/key-tree@file:/home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz::locator=root%40workspace%3A."
+  dependencies:
+    "@metamask/scure-bip39": ^2.1.1
+    "@metamask/utils": ^8.1.0
+    "@noble/curves": ^1.2.0
+    "@noble/hashes": ^1.3.2
+    "@scure/base": ^1.0.0
+    cardano-crypto.js: ^6.1.2
+  checksum: f3e4f57d986a21f1085fb0ba1e37f7c45a27a8e2cefe37f567367d950a4d158d5a9e572e962c9ca5f3f0fc9f886b7b2e2839fec4acee97dd388e60b5c295f43a
+  languageName: node
+  linkType: hard
+
 "@metamask/key-tree@npm:^9.0.0":
   version: 9.0.0
   resolution: "@metamask/key-tree@npm:9.0.0"
@@ -4974,7 +5632,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@metamask/scure-bip39@npm:^2.1.0":
+"@metamask/scure-bip39@npm:^2.1.0, @metamask/scure-bip39@npm:^2.1.1":
   version: 2.1.1
   resolution: "@metamask/scure-bip39@npm:2.1.1"
   dependencies:
@@ -4994,7 +5652,7 @@ __metadata:
     "@metamask/eslint-config-jest": ^12.1.0
     "@metamask/eslint-config-nodejs": ^12.1.0
     "@metamask/eslint-config-typescript": ^12.1.0
-    "@metamask/snaps-utils": "workspace:^"
+    "@metamask/snaps-utils": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz
     "@swc/cli": ^0.1.62
     "@swc/core": 1.3.78
     "@swc/jest": ^0.2.26
@@ -5027,6 +5685,65 @@ __metadata:
   languageName: unknown
   linkType: soft
 
+"@metamask/snaps-cli@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-cli/cli-0.tgz::locator=root%40workspace%3A.":
+  version: 3.0.2
+  resolution: "@metamask/snaps-cli@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-cli/cli-0.tgz::locator=root%40workspace%3A."
+  dependencies:
+    "@babel/core": ^7.23.2
+    "@babel/plugin-transform-class-properties": ^7.22.5
+    "@babel/plugin-transform-class-static-block": ^7.22.11
+    "@babel/plugin-transform-private-methods": ^7.22.5
+    "@babel/plugin-transform-private-property-in-object": ^7.22.11
+    "@babel/plugin-transform-runtime": ^7.13.2
+    "@babel/preset-env": ^7.23.2
+    "@babel/preset-typescript": ^7.23.2
+    "@metamask/snaps-sdk": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz
+    "@metamask/snaps-utils": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz
+    "@metamask/snaps-webpack-plugin": ^3.1.0
+    "@metamask/utils": ^8.2.1
+    "@swc/core": 1.3.78
+    assert: ^2.0.0
+    babelify: ^10.0.0
+    browserify: ^17.0.0
+    browserify-zlib: ^0.2.0
+    buffer: ^6.0.3
+    chalk: ^4.1.2
+    chokidar: ^3.5.2
+    console-browserify: ^1.2.0
+    constants-browserify: ^1.0.0
+    crypto-browserify: ^3.12.0
+    domain-browser: ^4.22.0
+    events: ^3.3.0
+    https-browserify: ^1.0.0
+    ora: ^5.4.1
+    os-browserify: ^0.3.0
+    path-browserify: ^1.0.1
+    process: ^0.11.10
+    punycode: ^2.3.0
+    querystring-es3: ^0.2.1
+    readable-stream: ^3.6.2
+    semver: ^7.5.4
+    serve-handler: ^6.1.5
+    stream-browserify: ^3.0.0
+    stream-http: ^3.2.0
+    string_decoder: ^1.3.0
+    superstruct: ^1.0.3
+    swc-loader: ^0.2.3
+    terser-webpack-plugin: ^5.3.9
+    timers-browserify: ^2.0.12
+    tty-browserify: ^0.0.1
+    url: ^0.11.1
+    util: ^0.12.5
+    vm-browserify: ^1.1.2
+    webpack: ^5.88.0
+    webpack-merge: ^5.9.0
+    yargs: ^17.7.1
+  bin:
+    mm-snap: ./dist/cjs/main.js
+  checksum: a609308717d8dc039345cfb12e82f6bea69c4ff1044a7688c98756c418853918ebf1eb25ef32239df28a735ec45d4c37a024fa9752919ac86adb25c902336c3e
+  languageName: node
+  linkType: hard
+
 "@metamask/snaps-cli@workspace:^, @metamask/snaps-cli@workspace:packages/snaps-cli":
   version: 0.0.0-use.local
   resolution: "@metamask/snaps-cli@workspace:packages/snaps-cli"
@@ -5045,8 +5762,8 @@ __metadata:
     "@metamask/eslint-config-jest": ^12.1.0
     "@metamask/eslint-config-nodejs": ^12.1.0
     "@metamask/eslint-config-typescript": ^12.1.0
-    "@metamask/snaps-sdk": "workspace:^"
-    "@metamask/snaps-utils": "workspace:^"
+    "@metamask/snaps-sdk": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz
+    "@metamask/snaps-utils": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz
     "@metamask/snaps-webpack-plugin": "workspace:^"
     "@metamask/utils": ^8.2.1
     "@swc/cli": ^0.1.62
@@ -5143,9 +5860,9 @@ __metadata:
     "@metamask/post-message-stream": ^7.0.0
     "@metamask/rpc-errors": ^6.1.0
     "@metamask/snaps-registry": ^2.1.0
-    "@metamask/snaps-rpc-methods": "workspace:^"
-    "@metamask/snaps-sdk": "workspace:^"
-    "@metamask/snaps-utils": "workspace:^"
+    "@metamask/snaps-rpc-methods": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-rpc-methods/rpc-methods-0.tgz
+    "@metamask/snaps-sdk": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz
+    "@metamask/snaps-utils": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz
     "@metamask/template-snap": ^0.7.0
     "@metamask/utils": ^8.2.1
     "@swc/cli": ^0.1.62
@@ -5235,7 +5952,7 @@ __metadata:
     "@metamask/post-message-stream": ^7.0.0
     "@metamask/providers": ^14.0.1
     "@metamask/rpc-errors": ^6.1.0
-    "@metamask/snaps-sdk": "workspace:^"
+    "@metamask/snaps-sdk": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz
     "@metamask/snaps-utils": "workspace:^"
     "@metamask/utils": ^8.2.1
     "@swc/cli": ^0.1.62
@@ -5309,9 +6026,9 @@ __metadata:
     "@metamask/eslint-config-nodejs": ^12.1.0
     "@metamask/eslint-config-typescript": ^12.1.0
     "@metamask/snaps-execution-environments": "workspace:^"
-    "@metamask/snaps-sdk": "workspace:^"
+    "@metamask/snaps-sdk": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz
     "@metamask/snaps-simulator": "workspace:^"
-    "@metamask/snaps-utils": "workspace:^"
+    "@metamask/snaps-utils": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz
     "@metamask/utils": ^8.2.1
     "@swc/cli": ^0.1.62
     "@swc/core": 1.3.78
@@ -5396,7 +6113,55 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@metamask/snaps-rpc-methods@workspace:^, @metamask/snaps-rpc-methods@workspace:packages/snaps-rpc-methods":
+"@metamask/snaps-rpc-methods@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-rpc-methods/rpc-methods-0.tgz::locator=%40metamask%2Fsnaps-controllers%40workspace%3Apackages%2Fsnaps-controllers":
+  version: 4.0.0
+  resolution: "@metamask/snaps-rpc-methods@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-rpc-methods/rpc-methods-0.tgz::locator=%40metamask%2Fsnaps-controllers%40workspace%3Apackages%2Fsnaps-controllers"
+  dependencies:
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/permission-controller": ^5.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/snaps-sdk": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz
+    "@metamask/snaps-utils": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz
+    "@metamask/utils": ^8.2.1
+    "@noble/hashes": ^1.3.1
+    superstruct: ^1.0.3
+  checksum: 22692847b3c8b4105578af324595e812ddeba30ad5fbf84690ef13b7e96c9b16d6d232e107e5179b409a854797a8b02d3f8a38cef15b24b28428b2f2e0a1854f
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-rpc-methods@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-rpc-methods/rpc-methods-0.tgz::locator=%40metamask%2Fsnaps-simulator%40workspace%3Apackages%2Fsnaps-simulator":
+  version: 4.0.0
+  resolution: "@metamask/snaps-rpc-methods@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-rpc-methods/rpc-methods-0.tgz::locator=%40metamask%2Fsnaps-simulator%40workspace%3Apackages%2Fsnaps-simulator"
+  dependencies:
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/permission-controller": ^5.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/snaps-sdk": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz
+    "@metamask/snaps-utils": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz
+    "@metamask/utils": ^8.2.1
+    "@noble/hashes": ^1.3.1
+    superstruct: ^1.0.3
+  checksum: 22692847b3c8b4105578af324595e812ddeba30ad5fbf84690ef13b7e96c9b16d6d232e107e5179b409a854797a8b02d3f8a38cef15b24b28428b2f2e0a1854f
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-rpc-methods@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-rpc-methods/rpc-methods-0.tgz::locator=root%40workspace%3A.":
+  version: 4.0.0
+  resolution: "@metamask/snaps-rpc-methods@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-rpc-methods/rpc-methods-0.tgz::locator=root%40workspace%3A."
+  dependencies:
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/permission-controller": ^5.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/snaps-sdk": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz
+    "@metamask/snaps-utils": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz
+    "@metamask/utils": ^8.2.1
+    "@noble/hashes": ^1.3.1
+    superstruct: ^1.0.3
+  checksum: 22692847b3c8b4105578af324595e812ddeba30ad5fbf84690ef13b7e96c9b16d6d232e107e5179b409a854797a8b02d3f8a38cef15b24b28428b2f2e0a1854f
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-rpc-methods@workspace:packages/snaps-rpc-methods":
   version: 0.0.0-use.local
   resolution: "@metamask/snaps-rpc-methods@workspace:packages/snaps-rpc-methods"
   dependencies:
@@ -5408,11 +6173,11 @@ __metadata:
     "@metamask/eslint-config-nodejs": ^12.1.0
     "@metamask/eslint-config-typescript": ^12.1.0
     "@metamask/json-rpc-engine": ^7.3.0
-    "@metamask/key-tree": ^9.0.0
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
     "@metamask/permission-controller": ^5.0.1
     "@metamask/rpc-errors": ^6.1.0
-    "@metamask/snaps-sdk": "workspace:^"
-    "@metamask/snaps-utils": "workspace:^"
+    "@metamask/snaps-sdk": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz
+    "@metamask/snaps-utils": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz
     "@metamask/utils": ^8.2.1
     "@noble/hashes": ^1.3.1
     "@swc/cli": ^0.1.62
@@ -5441,6 +6206,370 @@ __metadata:
   languageName: unknown
   linkType: soft
 
+"@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-cli%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-cli%2Fcli-0.tgz%3A%3Alocator%3Droot%2540workspace%253A.":
+  version: 1.1.0
+  resolution: "@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-cli%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-cli%2Fcli-0.tgz%3A%3Alocator%3Droot%2540workspace%253A."
+  dependencies:
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/providers": ^14.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/utils": ^8.2.1
+    is-svg: ^4.4.0
+    superstruct: ^1.0.3
+  checksum: 6adb637fbdc820947b7e39e9197969f420cf4e1412e1efe7a273ca2e5f77f8d735f4f07f3c6b7f2731e05334e49be347abf731ae93d4d3a4b84dab23439329b9
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-cli%40workspace%3Apackages%2Fsnaps-cli":
+  version: 1.1.0
+  resolution: "@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-cli%40workspace%3Apackages%2Fsnaps-cli"
+  dependencies:
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/providers": ^14.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/utils": ^8.2.1
+    is-svg: ^4.4.0
+    superstruct: ^1.0.3
+  checksum: 6adb637fbdc820947b7e39e9197969f420cf4e1412e1efe7a273ca2e5f77f8d735f4f07f3c6b7f2731e05334e49be347abf731ae93d4d3a4b84dab23439329b9
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-controllers%40workspace%3Apackages%2Fsnaps-controllers":
+  version: 1.1.0
+  resolution: "@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-controllers%40workspace%3Apackages%2Fsnaps-controllers"
+  dependencies:
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/providers": ^14.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/utils": ^8.2.1
+    is-svg: ^4.4.0
+    superstruct: ^1.0.3
+  checksum: 6adb637fbdc820947b7e39e9197969f420cf4e1412e1efe7a273ca2e5f77f8d735f4f07f3c6b7f2731e05334e49be347abf731ae93d4d3a4b84dab23439329b9
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-execution-environments%40workspace%3Apackages%2Fsnaps-execution-environments":
+  version: 1.1.0
+  resolution: "@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-execution-environments%40workspace%3Apackages%2Fsnaps-execution-environments"
+  dependencies:
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/providers": ^14.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/utils": ^8.2.1
+    is-svg: ^4.4.0
+    superstruct: ^1.0.3
+  checksum: 6adb637fbdc820947b7e39e9197969f420cf4e1412e1efe7a273ca2e5f77f8d735f4f07f3c6b7f2731e05334e49be347abf731ae93d4d3a4b84dab23439329b9
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-jest%40workspace%3Apackages%2Fsnaps-jest":
+  version: 1.1.0
+  resolution: "@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-jest%40workspace%3Apackages%2Fsnaps-jest"
+  dependencies:
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/providers": ^14.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/utils": ^8.2.1
+    is-svg: ^4.4.0
+    superstruct: ^1.0.3
+  checksum: 6adb637fbdc820947b7e39e9197969f420cf4e1412e1efe7a273ca2e5f77f8d735f4f07f3c6b7f2731e05334e49be347abf731ae93d4d3a4b84dab23439329b9
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-rpc-methods%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-rpc-methods%2Frpc-methods-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-controllers%2540workspace%253Apackages%252Fsnaps-controllers":
+  version: 1.1.0
+  resolution: "@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-rpc-methods%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-rpc-methods%2Frpc-methods-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-controllers%2540workspace%253Apackages%252Fsnaps-controllers"
+  dependencies:
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/providers": ^14.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/utils": ^8.2.1
+    is-svg: ^4.4.0
+    superstruct: ^1.0.3
+  checksum: 6adb637fbdc820947b7e39e9197969f420cf4e1412e1efe7a273ca2e5f77f8d735f4f07f3c6b7f2731e05334e49be347abf731ae93d4d3a4b84dab23439329b9
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-rpc-methods%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-rpc-methods%2Frpc-methods-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-simulator%2540workspace%253Apackages%252Fsnaps-simulator":
+  version: 1.1.0
+  resolution: "@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-rpc-methods%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-rpc-methods%2Frpc-methods-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-simulator%2540workspace%253Apackages%252Fsnaps-simulator"
+  dependencies:
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/providers": ^14.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/utils": ^8.2.1
+    is-svg: ^4.4.0
+    superstruct: ^1.0.3
+  checksum: 6adb637fbdc820947b7e39e9197969f420cf4e1412e1efe7a273ca2e5f77f8d735f4f07f3c6b7f2731e05334e49be347abf731ae93d4d3a4b84dab23439329b9
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-rpc-methods%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-rpc-methods%2Frpc-methods-0.tgz%3A%3Alocator%3Droot%2540workspace%253A.":
+  version: 1.1.0
+  resolution: "@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-rpc-methods%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-rpc-methods%2Frpc-methods-0.tgz%3A%3Alocator%3Droot%2540workspace%253A."
+  dependencies:
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/providers": ^14.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/utils": ^8.2.1
+    is-svg: ^4.4.0
+    superstruct: ^1.0.3
+  checksum: 6adb637fbdc820947b7e39e9197969f420cf4e1412e1efe7a273ca2e5f77f8d735f4f07f3c6b7f2731e05334e49be347abf731ae93d4d3a4b84dab23439329b9
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-rpc-methods%40workspace%3Apackages%2Fsnaps-rpc-methods":
+  version: 1.1.0
+  resolution: "@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-rpc-methods%40workspace%3Apackages%2Fsnaps-rpc-methods"
+  dependencies:
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/providers": ^14.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/utils": ^8.2.1
+    is-svg: ^4.4.0
+    superstruct: ^1.0.3
+  checksum: 6adb637fbdc820947b7e39e9197969f420cf4e1412e1efe7a273ca2e5f77f8d735f4f07f3c6b7f2731e05334e49be347abf731ae93d4d3a4b84dab23439329b9
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-simulator%40workspace%3Apackages%2Fsnaps-simulator":
+  version: 1.1.0
+  resolution: "@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-simulator%40workspace%3Apackages%2Fsnaps-simulator"
+  dependencies:
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/providers": ^14.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/utils": ^8.2.1
+    is-svg: ^4.4.0
+    superstruct: ^1.0.3
+  checksum: 6adb637fbdc820947b7e39e9197969f420cf4e1412e1efe7a273ca2e5f77f8d735f4f07f3c6b7f2731e05334e49be347abf731ae93d4d3a4b84dab23439329b9
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fcreate-snap%2540workspace%253Apackages%252Fcreate-snap":
+  version: 1.1.0
+  resolution: "@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fcreate-snap%2540workspace%253Apackages%252Fcreate-snap"
+  dependencies:
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/providers": ^14.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/utils": ^8.2.1
+    is-svg: ^4.4.0
+    superstruct: ^1.0.3
+  checksum: 6adb637fbdc820947b7e39e9197969f420cf4e1412e1efe7a273ca2e5f77f8d735f4f07f3c6b7f2731e05334e49be347abf731ae93d4d3a4b84dab23439329b9
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-browserify-plugin%2540workspace%253Apackages%252Fsnaps-browserify-plugin":
+  version: 1.1.0
+  resolution: "@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-browserify-plugin%2540workspace%253Apackages%252Fsnaps-browserify-plugin"
+  dependencies:
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/providers": ^14.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/utils": ^8.2.1
+    is-svg: ^4.4.0
+    superstruct: ^1.0.3
+  checksum: 6adb637fbdc820947b7e39e9197969f420cf4e1412e1efe7a273ca2e5f77f8d735f4f07f3c6b7f2731e05334e49be347abf731ae93d4d3a4b84dab23439329b9
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-cli%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-cli%252Fcli-0.tgz%253A%253Alocator%253Droot%252540workspace%25253A.":
+  version: 1.1.0
+  resolution: "@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-cli%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-cli%252Fcli-0.tgz%253A%253Alocator%253Droot%252540workspace%25253A."
+  dependencies:
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/providers": ^14.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/utils": ^8.2.1
+    is-svg: ^4.4.0
+    superstruct: ^1.0.3
+  checksum: 6adb637fbdc820947b7e39e9197969f420cf4e1412e1efe7a273ca2e5f77f8d735f4f07f3c6b7f2731e05334e49be347abf731ae93d4d3a4b84dab23439329b9
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-cli%2540workspace%253Apackages%252Fsnaps-cli":
+  version: 1.1.0
+  resolution: "@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-cli%2540workspace%253Apackages%252Fsnaps-cli"
+  dependencies:
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/providers": ^14.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/utils": ^8.2.1
+    is-svg: ^4.4.0
+    superstruct: ^1.0.3
+  checksum: 6adb637fbdc820947b7e39e9197969f420cf4e1412e1efe7a273ca2e5f77f8d735f4f07f3c6b7f2731e05334e49be347abf731ae93d4d3a4b84dab23439329b9
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-controllers%2540workspace%253Apackages%252Fsnaps-controllers":
+  version: 1.1.0
+  resolution: "@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-controllers%2540workspace%253Apackages%252Fsnaps-controllers"
+  dependencies:
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/providers": ^14.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/utils": ^8.2.1
+    is-svg: ^4.4.0
+    superstruct: ^1.0.3
+  checksum: 6adb637fbdc820947b7e39e9197969f420cf4e1412e1efe7a273ca2e5f77f8d735f4f07f3c6b7f2731e05334e49be347abf731ae93d4d3a4b84dab23439329b9
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-jest%2540workspace%253Apackages%252Fsnaps-jest":
+  version: 1.1.0
+  resolution: "@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-jest%2540workspace%253Apackages%252Fsnaps-jest"
+  dependencies:
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/providers": ^14.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/utils": ^8.2.1
+    is-svg: ^4.4.0
+    superstruct: ^1.0.3
+  checksum: 6adb637fbdc820947b7e39e9197969f420cf4e1412e1efe7a273ca2e5f77f8d735f4f07f3c6b7f2731e05334e49be347abf731ae93d4d3a4b84dab23439329b9
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-rpc-methods%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-rpc-methods%252Frpc-methods-0.tgz%253A%253Alocator%253D%252540metamask%25252Fsnaps-controllers%252540workspace%25253Apackages%25252Fsnaps-controllers":
+  version: 1.1.0
+  resolution: "@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-rpc-methods%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-rpc-methods%252Frpc-methods-0.tgz%253A%253Alocator%253D%252540metamask%25252Fsnaps-controllers%252540workspace%25253Apackages%25252Fsnaps-controllers"
+  dependencies:
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/providers": ^14.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/utils": ^8.2.1
+    is-svg: ^4.4.0
+    superstruct: ^1.0.3
+  checksum: 6adb637fbdc820947b7e39e9197969f420cf4e1412e1efe7a273ca2e5f77f8d735f4f07f3c6b7f2731e05334e49be347abf731ae93d4d3a4b84dab23439329b9
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-rpc-methods%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-rpc-methods%252Frpc-methods-0.tgz%253A%253Alocator%253D%252540metamask%25252Fsnaps-simulator%252540workspace%25253Apackages%25252Fsnaps-simulator":
+  version: 1.1.0
+  resolution: "@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-rpc-methods%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-rpc-methods%252Frpc-methods-0.tgz%253A%253Alocator%253D%252540metamask%25252Fsnaps-simulator%252540workspace%25253Apackages%25252Fsnaps-simulator"
+  dependencies:
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/providers": ^14.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/utils": ^8.2.1
+    is-svg: ^4.4.0
+    superstruct: ^1.0.3
+  checksum: 6adb637fbdc820947b7e39e9197969f420cf4e1412e1efe7a273ca2e5f77f8d735f4f07f3c6b7f2731e05334e49be347abf731ae93d4d3a4b84dab23439329b9
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-rpc-methods%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-rpc-methods%252Frpc-methods-0.tgz%253A%253Alocator%253Droot%252540workspace%25253A.":
+  version: 1.1.0
+  resolution: "@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-rpc-methods%2540file%253A%252Fhome%252Fpeter%252Fvl%252Fnufi-official%252Fmetamask-snaps%252Fpackages%252Fsnaps-rpc-methods%252Frpc-methods-0.tgz%253A%253Alocator%253Droot%252540workspace%25253A."
+  dependencies:
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/providers": ^14.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/utils": ^8.2.1
+    is-svg: ^4.4.0
+    superstruct: ^1.0.3
+  checksum: 6adb637fbdc820947b7e39e9197969f420cf4e1412e1efe7a273ca2e5f77f8d735f4f07f3c6b7f2731e05334e49be347abf731ae93d4d3a4b84dab23439329b9
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-rpc-methods%2540workspace%253Apackages%252Fsnaps-rpc-methods":
+  version: 1.1.0
+  resolution: "@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-rpc-methods%2540workspace%253Apackages%252Fsnaps-rpc-methods"
+  dependencies:
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/providers": ^14.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/utils": ^8.2.1
+    is-svg: ^4.4.0
+    superstruct: ^1.0.3
+  checksum: 6adb637fbdc820947b7e39e9197969f420cf4e1412e1efe7a273ca2e5f77f8d735f4f07f3c6b7f2731e05334e49be347abf731ae93d4d3a4b84dab23439329b9
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-simulator%2540workspace%253Apackages%252Fsnaps-simulator":
+  version: 1.1.0
+  resolution: "@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-simulator%2540workspace%253Apackages%252Fsnaps-simulator"
+  dependencies:
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/providers": ^14.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/utils": ^8.2.1
+    is-svg: ^4.4.0
+    superstruct: ^1.0.3
+  checksum: 6adb637fbdc820947b7e39e9197969f420cf4e1412e1efe7a273ca2e5f77f8d735f4f07f3c6b7f2731e05334e49be347abf731ae93d4d3a4b84dab23439329b9
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-webpack-plugin%2540workspace%253Apackages%252Fsnaps-webpack-plugin":
+  version: 1.1.0
+  resolution: "@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-webpack-plugin%2540workspace%253Apackages%252Fsnaps-webpack-plugin"
+  dependencies:
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/providers": ^14.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/utils": ^8.2.1
+    is-svg: ^4.4.0
+    superstruct: ^1.0.3
+  checksum: 6adb637fbdc820947b7e39e9197969f420cf4e1412e1efe7a273ca2e5f77f8d735f4f07f3c6b7f2731e05334e49be347abf731ae93d4d3a4b84dab23439329b9
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3Droot%2540workspace%253A.":
+  version: 1.1.0
+  resolution: "@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-utils%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-utils%2Fsnap-utils-0.tgz%3A%3Alocator%3Droot%2540workspace%253A."
+  dependencies:
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/providers": ^14.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/utils": ^8.2.1
+    is-svg: ^4.4.0
+    superstruct: ^1.0.3
+  checksum: 6adb637fbdc820947b7e39e9197969f420cf4e1412e1efe7a273ca2e5f77f8d735f4f07f3c6b7f2731e05334e49be347abf731ae93d4d3a4b84dab23439329b9
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-utils%40workspace%3Apackages%2Fsnaps-utils":
+  version: 1.1.0
+  resolution: "@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-utils%40workspace%3Apackages%2Fsnaps-utils"
+  dependencies:
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/providers": ^14.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/utils": ^8.2.1
+    is-svg: ^4.4.0
+    superstruct: ^1.0.3
+  checksum: 6adb637fbdc820947b7e39e9197969f420cf4e1412e1efe7a273ca2e5f77f8d735f4f07f3c6b7f2731e05334e49be347abf731ae93d4d3a4b84dab23439329b9
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-webpack-plugin%40workspace%3Apackages%2Fsnaps-webpack-plugin":
+  version: 1.1.0
+  resolution: "@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=%40metamask%2Fsnaps-webpack-plugin%40workspace%3Apackages%2Fsnaps-webpack-plugin"
+  dependencies:
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/providers": ^14.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/utils": ^8.2.1
+    is-svg: ^4.4.0
+    superstruct: ^1.0.3
+  checksum: 6adb637fbdc820947b7e39e9197969f420cf4e1412e1efe7a273ca2e5f77f8d735f4f07f3c6b7f2731e05334e49be347abf731ae93d4d3a4b84dab23439329b9
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=root%40workspace%3A.":
+  version: 1.1.0
+  resolution: "@metamask/snaps-sdk@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz::locator=root%40workspace%3A."
+  dependencies:
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/providers": ^14.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/utils": ^8.2.1
+    is-svg: ^4.4.0
+    superstruct: ^1.0.3
+  checksum: 6adb637fbdc820947b7e39e9197969f420cf4e1412e1efe7a273ca2e5f77f8d735f4f07f3c6b7f2731e05334e49be347abf731ae93d4d3a4b84dab23439329b9
+  languageName: node
+  linkType: hard
+
 "@metamask/snaps-sdk@workspace:^, @metamask/snaps-sdk@workspace:packages/snaps-sdk":
   version: 0.0.0-use.local
   resolution: "@metamask/snaps-sdk@workspace:packages/snaps-sdk"
@@ -5451,7 +6580,7 @@ __metadata:
     "@metamask/eslint-config-jest": ^12.1.0
     "@metamask/eslint-config-nodejs": ^12.1.0
     "@metamask/eslint-config-typescript": ^12.1.0
-    "@metamask/key-tree": ^9.0.0
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
     "@metamask/providers": ^14.0.1
     "@metamask/rpc-errors": ^6.1.0
     "@metamask/utils": ^8.2.1
@@ -5502,13 +6631,13 @@ __metadata:
     "@metamask/eslint-config-typescript": ^12.1.0
     "@metamask/eth-json-rpc-middleware": ^12.0.1
     "@metamask/json-rpc-engine": ^7.3.0
-    "@metamask/key-tree": ^9.0.0
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
     "@metamask/permission-controller": ^5.0.1
     "@metamask/snaps-controllers": "workspace:^"
     "@metamask/snaps-execution-environments": "workspace:^"
-    "@metamask/snaps-rpc-methods": "workspace:^"
-    "@metamask/snaps-sdk": "workspace:^"
-    "@metamask/snaps-utils": "workspace:^"
+    "@metamask/snaps-rpc-methods": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-rpc-methods/rpc-methods-0.tgz
+    "@metamask/snaps-sdk": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz
+    "@metamask/snaps-utils": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz
     "@metamask/utils": ^8.2.1
     "@minoru/react-dnd-treeview": ^3.4.4
     "@pmmmwh/react-refresh-webpack-plugin": ^0.5.10
@@ -5587,6 +6716,383 @@ __metadata:
   languageName: unknown
   linkType: soft
 
+"@metamask/snaps-utils@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz::locator=%40metamask%2Fcreate-snap%40workspace%3Apackages%2Fcreate-snap":
+  version: 4.0.1
+  resolution: "@metamask/snaps-utils@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz::locator=%40metamask%2Fcreate-snap%40workspace%3Apackages%2Fcreate-snap"
+  dependencies:
+    "@babel/core": ^7.23.2
+    "@babel/types": ^7.23.0
+    "@metamask/base-controller": ^3.2.0
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/permission-controller": ^5.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/snaps-registry": ^2.1.0
+    "@metamask/snaps-sdk": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz
+    "@metamask/utils": ^8.2.1
+    "@noble/hashes": ^1.3.1
+    "@scure/base": ^1.1.1
+    chalk: ^4.1.2
+    cron-parser: ^4.5.0
+    fast-deep-equal: ^3.1.3
+    fast-json-stable-stringify: ^2.1.0
+    is-svg: ^4.4.0
+    rfdc: ^1.3.0
+    semver: ^7.5.4
+    ses: ^0.18.8
+    superstruct: ^1.0.3
+    validate-npm-package-name: ^5.0.0
+  checksum: 578d6fce80644b092a7ad56a7429e8bba9cf7e34e4d5722ae4ea51c13e25dede9b27991a1400f77358f22ccf3e532462f47b4e928cc80ccb424f4e333922a4b5
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-utils@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz::locator=%40metamask%2Fsnaps-browserify-plugin%40workspace%3Apackages%2Fsnaps-browserify-plugin":
+  version: 4.0.1
+  resolution: "@metamask/snaps-utils@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz::locator=%40metamask%2Fsnaps-browserify-plugin%40workspace%3Apackages%2Fsnaps-browserify-plugin"
+  dependencies:
+    "@babel/core": ^7.23.2
+    "@babel/types": ^7.23.0
+    "@metamask/base-controller": ^3.2.0
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/permission-controller": ^5.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/snaps-registry": ^2.1.0
+    "@metamask/snaps-sdk": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz
+    "@metamask/utils": ^8.2.1
+    "@noble/hashes": ^1.3.1
+    "@scure/base": ^1.1.1
+    chalk: ^4.1.2
+    cron-parser: ^4.5.0
+    fast-deep-equal: ^3.1.3
+    fast-json-stable-stringify: ^2.1.0
+    is-svg: ^4.4.0
+    rfdc: ^1.3.0
+    semver: ^7.5.4
+    ses: ^0.18.8
+    superstruct: ^1.0.3
+    validate-npm-package-name: ^5.0.0
+  checksum: 578d6fce80644b092a7ad56a7429e8bba9cf7e34e4d5722ae4ea51c13e25dede9b27991a1400f77358f22ccf3e532462f47b4e928cc80ccb424f4e333922a4b5
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-utils@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz::locator=%40metamask%2Fsnaps-cli%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-cli%2Fcli-0.tgz%3A%3Alocator%3Droot%2540workspace%253A.":
+  version: 4.0.1
+  resolution: "@metamask/snaps-utils@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz::locator=%40metamask%2Fsnaps-cli%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-cli%2Fcli-0.tgz%3A%3Alocator%3Droot%2540workspace%253A."
+  dependencies:
+    "@babel/core": ^7.23.2
+    "@babel/types": ^7.23.0
+    "@metamask/base-controller": ^3.2.0
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/permission-controller": ^5.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/snaps-registry": ^2.1.0
+    "@metamask/snaps-sdk": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz
+    "@metamask/utils": ^8.2.1
+    "@noble/hashes": ^1.3.1
+    "@scure/base": ^1.1.1
+    chalk: ^4.1.2
+    cron-parser: ^4.5.0
+    fast-deep-equal: ^3.1.3
+    fast-json-stable-stringify: ^2.1.0
+    is-svg: ^4.4.0
+    rfdc: ^1.3.0
+    semver: ^7.5.4
+    ses: ^0.18.8
+    superstruct: ^1.0.3
+    validate-npm-package-name: ^5.0.0
+  checksum: 578d6fce80644b092a7ad56a7429e8bba9cf7e34e4d5722ae4ea51c13e25dede9b27991a1400f77358f22ccf3e532462f47b4e928cc80ccb424f4e333922a4b5
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-utils@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz::locator=%40metamask%2Fsnaps-cli%40workspace%3Apackages%2Fsnaps-cli":
+  version: 4.0.1
+  resolution: "@metamask/snaps-utils@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz::locator=%40metamask%2Fsnaps-cli%40workspace%3Apackages%2Fsnaps-cli"
+  dependencies:
+    "@babel/core": ^7.23.2
+    "@babel/types": ^7.23.0
+    "@metamask/base-controller": ^3.2.0
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/permission-controller": ^5.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/snaps-registry": ^2.1.0
+    "@metamask/snaps-sdk": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz
+    "@metamask/utils": ^8.2.1
+    "@noble/hashes": ^1.3.1
+    "@scure/base": ^1.1.1
+    chalk: ^4.1.2
+    cron-parser: ^4.5.0
+    fast-deep-equal: ^3.1.3
+    fast-json-stable-stringify: ^2.1.0
+    is-svg: ^4.4.0
+    rfdc: ^1.3.0
+    semver: ^7.5.4
+    ses: ^0.18.8
+    superstruct: ^1.0.3
+    validate-npm-package-name: ^5.0.0
+  checksum: 578d6fce80644b092a7ad56a7429e8bba9cf7e34e4d5722ae4ea51c13e25dede9b27991a1400f77358f22ccf3e532462f47b4e928cc80ccb424f4e333922a4b5
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-utils@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz::locator=%40metamask%2Fsnaps-controllers%40workspace%3Apackages%2Fsnaps-controllers":
+  version: 4.0.1
+  resolution: "@metamask/snaps-utils@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz::locator=%40metamask%2Fsnaps-controllers%40workspace%3Apackages%2Fsnaps-controllers"
+  dependencies:
+    "@babel/core": ^7.23.2
+    "@babel/types": ^7.23.0
+    "@metamask/base-controller": ^3.2.0
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/permission-controller": ^5.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/snaps-registry": ^2.1.0
+    "@metamask/snaps-sdk": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz
+    "@metamask/utils": ^8.2.1
+    "@noble/hashes": ^1.3.1
+    "@scure/base": ^1.1.1
+    chalk: ^4.1.2
+    cron-parser: ^4.5.0
+    fast-deep-equal: ^3.1.3
+    fast-json-stable-stringify: ^2.1.0
+    is-svg: ^4.4.0
+    rfdc: ^1.3.0
+    semver: ^7.5.4
+    ses: ^0.18.8
+    superstruct: ^1.0.3
+    validate-npm-package-name: ^5.0.0
+  checksum: 578d6fce80644b092a7ad56a7429e8bba9cf7e34e4d5722ae4ea51c13e25dede9b27991a1400f77358f22ccf3e532462f47b4e928cc80ccb424f4e333922a4b5
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-utils@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz::locator=%40metamask%2Fsnaps-jest%40workspace%3Apackages%2Fsnaps-jest":
+  version: 4.0.1
+  resolution: "@metamask/snaps-utils@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz::locator=%40metamask%2Fsnaps-jest%40workspace%3Apackages%2Fsnaps-jest"
+  dependencies:
+    "@babel/core": ^7.23.2
+    "@babel/types": ^7.23.0
+    "@metamask/base-controller": ^3.2.0
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/permission-controller": ^5.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/snaps-registry": ^2.1.0
+    "@metamask/snaps-sdk": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz
+    "@metamask/utils": ^8.2.1
+    "@noble/hashes": ^1.3.1
+    "@scure/base": ^1.1.1
+    chalk: ^4.1.2
+    cron-parser: ^4.5.0
+    fast-deep-equal: ^3.1.3
+    fast-json-stable-stringify: ^2.1.0
+    is-svg: ^4.4.0
+    rfdc: ^1.3.0
+    semver: ^7.5.4
+    ses: ^0.18.8
+    superstruct: ^1.0.3
+    validate-npm-package-name: ^5.0.0
+  checksum: 578d6fce80644b092a7ad56a7429e8bba9cf7e34e4d5722ae4ea51c13e25dede9b27991a1400f77358f22ccf3e532462f47b4e928cc80ccb424f4e333922a4b5
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-utils@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz::locator=%40metamask%2Fsnaps-rpc-methods%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-rpc-methods%2Frpc-methods-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-controllers%2540workspace%253Apackages%252Fsnaps-controllers":
+  version: 4.0.1
+  resolution: "@metamask/snaps-utils@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz::locator=%40metamask%2Fsnaps-rpc-methods%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-rpc-methods%2Frpc-methods-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-controllers%2540workspace%253Apackages%252Fsnaps-controllers"
+  dependencies:
+    "@babel/core": ^7.23.2
+    "@babel/types": ^7.23.0
+    "@metamask/base-controller": ^3.2.0
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/permission-controller": ^5.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/snaps-registry": ^2.1.0
+    "@metamask/snaps-sdk": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz
+    "@metamask/utils": ^8.2.1
+    "@noble/hashes": ^1.3.1
+    "@scure/base": ^1.1.1
+    chalk: ^4.1.2
+    cron-parser: ^4.5.0
+    fast-deep-equal: ^3.1.3
+    fast-json-stable-stringify: ^2.1.0
+    is-svg: ^4.4.0
+    rfdc: ^1.3.0
+    semver: ^7.5.4
+    ses: ^0.18.8
+    superstruct: ^1.0.3
+    validate-npm-package-name: ^5.0.0
+  checksum: 578d6fce80644b092a7ad56a7429e8bba9cf7e34e4d5722ae4ea51c13e25dede9b27991a1400f77358f22ccf3e532462f47b4e928cc80ccb424f4e333922a4b5
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-utils@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz::locator=%40metamask%2Fsnaps-rpc-methods%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-rpc-methods%2Frpc-methods-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-simulator%2540workspace%253Apackages%252Fsnaps-simulator":
+  version: 4.0.1
+  resolution: "@metamask/snaps-utils@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz::locator=%40metamask%2Fsnaps-rpc-methods%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-rpc-methods%2Frpc-methods-0.tgz%3A%3Alocator%3D%2540metamask%252Fsnaps-simulator%2540workspace%253Apackages%252Fsnaps-simulator"
+  dependencies:
+    "@babel/core": ^7.23.2
+    "@babel/types": ^7.23.0
+    "@metamask/base-controller": ^3.2.0
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/permission-controller": ^5.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/snaps-registry": ^2.1.0
+    "@metamask/snaps-sdk": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz
+    "@metamask/utils": ^8.2.1
+    "@noble/hashes": ^1.3.1
+    "@scure/base": ^1.1.1
+    chalk: ^4.1.2
+    cron-parser: ^4.5.0
+    fast-deep-equal: ^3.1.3
+    fast-json-stable-stringify: ^2.1.0
+    is-svg: ^4.4.0
+    rfdc: ^1.3.0
+    semver: ^7.5.4
+    ses: ^0.18.8
+    superstruct: ^1.0.3
+    validate-npm-package-name: ^5.0.0
+  checksum: 578d6fce80644b092a7ad56a7429e8bba9cf7e34e4d5722ae4ea51c13e25dede9b27991a1400f77358f22ccf3e532462f47b4e928cc80ccb424f4e333922a4b5
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-utils@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz::locator=%40metamask%2Fsnaps-rpc-methods%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-rpc-methods%2Frpc-methods-0.tgz%3A%3Alocator%3Droot%2540workspace%253A.":
+  version: 4.0.1
+  resolution: "@metamask/snaps-utils@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz::locator=%40metamask%2Fsnaps-rpc-methods%40file%3A%2Fhome%2Fpeter%2Fvl%2Fnufi-official%2Fmetamask-snaps%2Fpackages%2Fsnaps-rpc-methods%2Frpc-methods-0.tgz%3A%3Alocator%3Droot%2540workspace%253A."
+  dependencies:
+    "@babel/core": ^7.23.2
+    "@babel/types": ^7.23.0
+    "@metamask/base-controller": ^3.2.0
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/permission-controller": ^5.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/snaps-registry": ^2.1.0
+    "@metamask/snaps-sdk": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz
+    "@metamask/utils": ^8.2.1
+    "@noble/hashes": ^1.3.1
+    "@scure/base": ^1.1.1
+    chalk: ^4.1.2
+    cron-parser: ^4.5.0
+    fast-deep-equal: ^3.1.3
+    fast-json-stable-stringify: ^2.1.0
+    is-svg: ^4.4.0
+    rfdc: ^1.3.0
+    semver: ^7.5.4
+    ses: ^0.18.8
+    superstruct: ^1.0.3
+    validate-npm-package-name: ^5.0.0
+  checksum: 578d6fce80644b092a7ad56a7429e8bba9cf7e34e4d5722ae4ea51c13e25dede9b27991a1400f77358f22ccf3e532462f47b4e928cc80ccb424f4e333922a4b5
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-utils@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz::locator=%40metamask%2Fsnaps-rpc-methods%40workspace%3Apackages%2Fsnaps-rpc-methods":
+  version: 4.0.1
+  resolution: "@metamask/snaps-utils@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz::locator=%40metamask%2Fsnaps-rpc-methods%40workspace%3Apackages%2Fsnaps-rpc-methods"
+  dependencies:
+    "@babel/core": ^7.23.2
+    "@babel/types": ^7.23.0
+    "@metamask/base-controller": ^3.2.0
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/permission-controller": ^5.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/snaps-registry": ^2.1.0
+    "@metamask/snaps-sdk": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz
+    "@metamask/utils": ^8.2.1
+    "@noble/hashes": ^1.3.1
+    "@scure/base": ^1.1.1
+    chalk: ^4.1.2
+    cron-parser: ^4.5.0
+    fast-deep-equal: ^3.1.3
+    fast-json-stable-stringify: ^2.1.0
+    is-svg: ^4.4.0
+    rfdc: ^1.3.0
+    semver: ^7.5.4
+    ses: ^0.18.8
+    superstruct: ^1.0.3
+    validate-npm-package-name: ^5.0.0
+  checksum: 578d6fce80644b092a7ad56a7429e8bba9cf7e34e4d5722ae4ea51c13e25dede9b27991a1400f77358f22ccf3e532462f47b4e928cc80ccb424f4e333922a4b5
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-utils@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz::locator=%40metamask%2Fsnaps-simulator%40workspace%3Apackages%2Fsnaps-simulator":
+  version: 4.0.1
+  resolution: "@metamask/snaps-utils@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz::locator=%40metamask%2Fsnaps-simulator%40workspace%3Apackages%2Fsnaps-simulator"
+  dependencies:
+    "@babel/core": ^7.23.2
+    "@babel/types": ^7.23.0
+    "@metamask/base-controller": ^3.2.0
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/permission-controller": ^5.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/snaps-registry": ^2.1.0
+    "@metamask/snaps-sdk": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz
+    "@metamask/utils": ^8.2.1
+    "@noble/hashes": ^1.3.1
+    "@scure/base": ^1.1.1
+    chalk: ^4.1.2
+    cron-parser: ^4.5.0
+    fast-deep-equal: ^3.1.3
+    fast-json-stable-stringify: ^2.1.0
+    is-svg: ^4.4.0
+    rfdc: ^1.3.0
+    semver: ^7.5.4
+    ses: ^0.18.8
+    superstruct: ^1.0.3
+    validate-npm-package-name: ^5.0.0
+  checksum: 578d6fce80644b092a7ad56a7429e8bba9cf7e34e4d5722ae4ea51c13e25dede9b27991a1400f77358f22ccf3e532462f47b4e928cc80ccb424f4e333922a4b5
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-utils@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz::locator=%40metamask%2Fsnaps-webpack-plugin%40workspace%3Apackages%2Fsnaps-webpack-plugin":
+  version: 4.0.1
+  resolution: "@metamask/snaps-utils@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz::locator=%40metamask%2Fsnaps-webpack-plugin%40workspace%3Apackages%2Fsnaps-webpack-plugin"
+  dependencies:
+    "@babel/core": ^7.23.2
+    "@babel/types": ^7.23.0
+    "@metamask/base-controller": ^3.2.0
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/permission-controller": ^5.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/snaps-registry": ^2.1.0
+    "@metamask/snaps-sdk": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz
+    "@metamask/utils": ^8.2.1
+    "@noble/hashes": ^1.3.1
+    "@scure/base": ^1.1.1
+    chalk: ^4.1.2
+    cron-parser: ^4.5.0
+    fast-deep-equal: ^3.1.3
+    fast-json-stable-stringify: ^2.1.0
+    is-svg: ^4.4.0
+    rfdc: ^1.3.0
+    semver: ^7.5.4
+    ses: ^0.18.8
+    superstruct: ^1.0.3
+    validate-npm-package-name: ^5.0.0
+  checksum: 578d6fce80644b092a7ad56a7429e8bba9cf7e34e4d5722ae4ea51c13e25dede9b27991a1400f77358f22ccf3e532462f47b4e928cc80ccb424f4e333922a4b5
+  languageName: node
+  linkType: hard
+
+"@metamask/snaps-utils@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz::locator=root%40workspace%3A.":
+  version: 4.0.1
+  resolution: "@metamask/snaps-utils@file:/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz::locator=root%40workspace%3A."
+  dependencies:
+    "@babel/core": ^7.23.2
+    "@babel/types": ^7.23.0
+    "@metamask/base-controller": ^3.2.0
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/permission-controller": ^5.0.1
+    "@metamask/rpc-errors": ^6.1.0
+    "@metamask/snaps-registry": ^2.1.0
+    "@metamask/snaps-sdk": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz
+    "@metamask/utils": ^8.2.1
+    "@noble/hashes": ^1.3.1
+    "@scure/base": ^1.1.1
+    chalk: ^4.1.2
+    cron-parser: ^4.5.0
+    fast-deep-equal: ^3.1.3
+    fast-json-stable-stringify: ^2.1.0
+    is-svg: ^4.4.0
+    rfdc: ^1.3.0
+    semver: ^7.5.4
+    ses: ^0.18.8
+    superstruct: ^1.0.3
+    validate-npm-package-name: ^5.0.0
+  checksum: 578d6fce80644b092a7ad56a7429e8bba9cf7e34e4d5722ae4ea51c13e25dede9b27991a1400f77358f22ccf3e532462f47b4e928cc80ccb424f4e333922a4b5
+  languageName: node
+  linkType: hard
+
 "@metamask/snaps-utils@workspace:^, @metamask/snaps-utils@workspace:packages/snaps-utils":
   version: 0.0.0-use.local
   resolution: "@metamask/snaps-utils@workspace:packages/snaps-utils"
@@ -5602,12 +7108,12 @@ __metadata:
     "@metamask/eslint-config-jest": ^12.1.0
     "@metamask/eslint-config-nodejs": ^12.1.0
     "@metamask/eslint-config-typescript": ^12.1.0
-    "@metamask/key-tree": ^9.0.0
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
     "@metamask/permission-controller": ^5.0.1
     "@metamask/post-message-stream": ^7.0.0
     "@metamask/rpc-errors": ^6.1.0
     "@metamask/snaps-registry": ^2.1.0
-    "@metamask/snaps-sdk": "workspace:^"
+    "@metamask/snaps-sdk": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz
     "@metamask/utils": ^8.2.1
     "@noble/hashes": ^1.3.1
     "@scure/base": ^1.1.1
@@ -5668,7 +7174,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@metamask/snaps-webpack-plugin@workspace:^, @metamask/snaps-webpack-plugin@workspace:packages/snaps-webpack-plugin":
+"@metamask/snaps-webpack-plugin@^3.1.0, @metamask/snaps-webpack-plugin@workspace:^, @metamask/snaps-webpack-plugin@workspace:packages/snaps-webpack-plugin":
   version: 0.0.0-use.local
   resolution: "@metamask/snaps-webpack-plugin@workspace:packages/snaps-webpack-plugin"
   dependencies:
@@ -5678,8 +7184,8 @@ __metadata:
     "@metamask/eslint-config-jest": ^12.1.0
     "@metamask/eslint-config-nodejs": ^12.1.0
     "@metamask/eslint-config-typescript": ^12.1.0
-    "@metamask/snaps-sdk": "workspace:^"
-    "@metamask/snaps-utils": "workspace:^"
+    "@metamask/snaps-sdk": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz
+    "@metamask/snaps-utils": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz
     "@metamask/utils": ^8.2.1
     "@swc/cli": ^0.1.62
     "@swc/core": 1.3.78
@@ -6026,12 +7532,21 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@noble/curves@npm:1.1.0, @noble/curves@npm:^1.1.0, @noble/curves@npm:~1.1.0":
+"@noble/curves@npm:1.1.0, @noble/curves@npm:~1.1.0":
   version: 1.1.0
   resolution: "@noble/curves@npm:1.1.0"
   dependencies:
     "@noble/hashes": 1.3.1
   checksum: 2658cdd3f84f71079b4e3516c47559d22cf4b55c23ac8ee9d2b1f8e5b72916d9689e59820e0f9d9cb4a46a8423af5b56dc6bb7782405c88be06a015180508db5
+  languageName: node
+  linkType: hard
+
+"@noble/curves@npm:^1.1.0, @noble/curves@npm:^1.2.0":
+  version: 1.2.0
+  resolution: "@noble/curves@npm:1.2.0"
+  dependencies:
+    "@noble/hashes": 1.3.2
+  checksum: bb798d7a66d8e43789e93bc3c2ddff91a1e19fdb79a99b86cd98f1e5eff0ee2024a2672902c2576ef3577b6f282f3b5c778bebd55761ddbb30e36bf275e83dd0
   languageName: node
   linkType: hard
 
@@ -6056,7 +7571,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@noble/hashes@npm:^1.0.0, @noble/hashes@npm:^1.3.1, @noble/hashes@npm:~1.3.0, @noble/hashes@npm:~1.3.1, @noble/hashes@npm:~1.3.2":
+"@noble/hashes@npm:1.3.2, @noble/hashes@npm:^1.0.0, @noble/hashes@npm:^1.2.0, @noble/hashes@npm:^1.3.1, @noble/hashes@npm:^1.3.2, @noble/hashes@npm:~1.3.0, @noble/hashes@npm:~1.3.1, @noble/hashes@npm:~1.3.2":
   version: 1.3.2
   resolution: "@noble/hashes@npm:1.3.2"
   checksum: fe23536b436539d13f90e4b9be843cc63b1b17666a07634a2b1259dded6f490be3d050249e6af98076ea8f2ea0d56f578773c2197f2aa0eeaa5fba5bc18ba474
@@ -9182,6 +10697,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"bech32@npm:^1.1.4":
+  version: 1.1.4
+  resolution: "bech32@npm:1.1.4"
+  checksum: 0e98db619191548390d6f09ff68b0253ba7ae6a55db93dfdbb070ba234c1fd3308c0606fbcc95fad50437227b10011e2698b89f0181f6e7f845c499bd14d0f4b
+  languageName: node
+  linkType: hard
+
 "big-integer@npm:^1.6.17":
   version: 1.6.51
   resolution: "big-integer@npm:1.6.51"
@@ -9193,6 +10715,13 @@ __metadata:
   version: 5.2.2
   resolution: "big.js@npm:5.2.2"
   checksum: b89b6e8419b097a8fb4ed2399a1931a68c612bce3cfd5ca8c214b2d017531191070f990598de2fc6f3f993d91c0f08aa82697717f6b3b8732c9731866d233c9e
+  languageName: node
+  linkType: hard
+
+"bignumber.js@npm:^9.0.0":
+  version: 9.1.2
+  resolution: "bignumber.js@npm:9.1.2"
+  checksum: 582c03af77ec9cb0ebd682a373ee6c66475db94a4325f92299621d544aa4bd45cb45fd60001610e94aef8ae98a0905fa538241d9638d4422d57abbeeac6fadaf
   languageName: node
   linkType: hard
 
@@ -9272,6 +10801,15 @@ __metadata:
   dependencies:
     file-uri-to-path: 1.0.0
   checksum: 65b6b48095717c2e6105a021a7da4ea435aa8d3d3cd085cb9e85bcb6e5773cf318c4745c3f7c504412855940b585bdf9b918236612a1c7a7942491de176f1ae7
+  languageName: node
+  linkType: hard
+
+"bip39@npm:^3.0.2":
+  version: 3.1.0
+  resolution: "bip39@npm:3.1.0"
+  dependencies:
+    "@noble/hashes": ^1.2.0
+  checksum: 1224e763ffc6b097052ed8abd57f0e521ad6d31f1645be0d0a15f4417c13f8461f00e47e9cf7c8c784bd533f4fb1ee3ab020f258c7df45ee5dc722b4b0336cfc
   languageName: node
   linkType: hard
 
@@ -9366,6 +10904,21 @@ __metadata:
   peerDependencies:
     "@popperjs/core": ^2.11.7
   checksum: 29a83cc8cac96d70051e265a5da342cc488df8fc76dff6746ef7d155698286cd5bdfa3e52c6ebf09f8e5a97f25929ee97aee36237117732e52b0d3276a72c45c
+  languageName: node
+  linkType: hard
+
+"borc@npm:^2.1.1":
+  version: 2.1.2
+  resolution: "borc@npm:2.1.2"
+  dependencies:
+    bignumber.js: ^9.0.0
+    buffer: ^5.5.0
+    commander: ^2.15.0
+    ieee754: ^1.1.13
+    iso-url: ~0.4.7
+    json-text-sequence: ~0.1.0
+    readable-stream: ^3.6.0
+  checksum: 1914720baf2dd980edc82a957d1901b8cc80746c0482892fe747558c47c452127a1359104f01b3df9510ae8bb7954273c52796329f8f1445ca04415e05c8e9e2
   languageName: node
   linkType: hard
 
@@ -9872,6 +11425,18 @@ __metadata:
   languageName: node
   linkType: hard
 
+"cardano-crypto.js@npm:^6.1.2":
+  version: 6.1.2
+  resolution: "cardano-crypto.js@npm:6.1.2"
+  dependencies:
+    bech32: ^1.1.4
+    bip39: ^3.0.2
+    borc: ^2.1.1
+    pbkdf2: ^3.0.17
+  checksum: c91c595bc5787f781cafbd43d5e2e3a936ce503e01cd75e62edd3cfb73edbdd5d5a409004e9f80a9b4ef865a2f9589b314bad94909980511697be8ee3e1bfe4a
+  languageName: node
+  linkType: hard
+
 "chainsaw@npm:~0.1.0":
   version: 0.1.0
   resolution: "chainsaw@npm:0.1.0"
@@ -10317,7 +11882,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"commander@npm:^2.20.0":
+"commander@npm:^2.15.0, commander@npm:^2.20.0":
   version: 2.20.3
   resolution: "commander@npm:2.20.3"
   checksum: ab8c07884e42c3a8dbc5dd9592c606176c7eb5c1ca5ff274bcf907039b2c41de3626f684ea75ccf4d361ba004bbaff1f577d5384c155f3871e456bdf27becf9e
@@ -11117,6 +12682,13 @@ __metadata:
   version: 1.0.0
   resolution: "delegates@npm:1.0.0"
   checksum: a51744d9b53c164ba9c0492471a1a2ffa0b6727451bdc89e31627fdf4adda9d51277cfcbfb20f0a6f08ccb3c436f341df3e92631a3440226d93a8971724771fd
+  languageName: node
+  linkType: hard
+
+"delimit-stream@npm:0.1.0":
+  version: 0.1.0
+  resolution: "delimit-stream@npm:0.1.0"
+  checksum: 78e71f488950546f763a3f27bd68ec74de00432a27da55cf6804bee5e614efb2248144ac16b8dc8d757561d91442784328eeb410e63d7438af2407226585b4f7
   languageName: node
   linkType: hard
 
@@ -15223,6 +16795,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"iso-url@npm:~0.4.7":
+  version: 0.4.7
+  resolution: "iso-url@npm:0.4.7"
+  checksum: c42ae615b462fec55ea7b480548fc76ef69af26103fcbb12a305dd929a4c18c6b22e29c666b0601280e552f56b0f144eab0b28b9a6fbb12ec58dc7c8ae053124
+  languageName: node
+  linkType: hard
+
 "isobject@npm:^3.0.1":
   version: 3.0.1
   resolution: "isobject@npm:3.0.1"
@@ -16050,6 +17629,15 @@ __metadata:
   dependencies:
     jsonify: ^0.0.1
   checksum: ec10863493fb728481ed7576551382768a173d5b884758db530def00523b862083a3fd70fee24b39e2f47f5f502e22f9a1489dd66da3535b63bf6241dbfca800
+  languageName: node
+  linkType: hard
+
+"json-text-sequence@npm:~0.1.0":
+  version: 0.1.1
+  resolution: "json-text-sequence@npm:0.1.1"
+  dependencies:
+    delimit-stream: 0.1.0
+  checksum: 3d413b3d2b1b9a48b12221cae86f4f247ef400ab98fa65981a5e9c0d62a289d318aeeb0b7657b3d5df5a146d7533601f5d75297b0319175797e023088fd1c8e4
   languageName: node
   linkType: hard
 
@@ -20133,6 +21721,11 @@ __metadata:
     "@metamask/eslint-config-jest": ^12.1.0
     "@metamask/eslint-config-nodejs": ^12.1.0
     "@metamask/eslint-config-typescript": ^12.1.0
+    "@metamask/key-tree": /home/peter/vl/nufi-official/metamask-key-tree/snap-key-tree-0.tgz
+    "@metamask/snaps-cli": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-cli/cli-0.tgz
+    "@metamask/snaps-rpc-methods": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-rpc-methods/rpc-methods-0.tgz
+    "@metamask/snaps-sdk": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-sdk/snap-sdk-0.tgz
+    "@metamask/snaps-utils": /home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz
     "@metamask/utils": ^8.2.1
     "@swc/cli": ^0.1.62
     "@swc/core": 1.3.78

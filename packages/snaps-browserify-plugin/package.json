@@ -38,7 +38,7 @@
     "lint:dependencies": "depcheck"
   },
   "dependencies": {
-    "@metamask/snaps-utils": "workspace:^",
+    "@metamask/snaps-utils": "/home/peter/vl/nufi-official/metamask-snaps/packages/snaps-utils/snap-utils-0.tgz",
     "convert-source-map": "^1.8.0",
     "readable-stream": "^3.6.2"
   },
