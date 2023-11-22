@@ -107,7 +107,7 @@ export const bip32entropy = <
 export const Bip32EntropyStruct = bip32entropy(
   type({
     path: Bip32PathStruct,
-    curve: enums(['ed25519', 'secp256k1']),
+    curve: enums(['ed25519', 'secp256k1', 'bip32Ed25519']),
   }),
 );
 

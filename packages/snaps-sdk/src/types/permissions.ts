@@ -10,7 +10,7 @@ export type Cronjob = {
 };
 
 export type Bip32Entropy = {
-  curve: 'secp256k1' | 'ed25519';
+  curve: 'secp256k1' | 'ed25519' | 'bip32Ed25519';
   path: string[];
 };
 

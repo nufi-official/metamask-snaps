@@ -53,7 +53,7 @@ type GetBip32PublicKeySpecification = ValidPermissionSpecification<{
 export const Bip32PublicKeyArgsStruct = bip32entropy(
   object({
     path: Bip32PathStruct,
-    curve: enums(['ed25519', 'secp256k1']),
+    curve: enums(['ed25519', 'secp256k1', 'bip32Ed25519']),
     compressed: optional(boolean()),
   }),
 );

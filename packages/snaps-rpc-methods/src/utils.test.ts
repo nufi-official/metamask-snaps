@@ -72,4 +72,25 @@ describe('getNode', () => {
       }
     `);
   });
+
+  it('returns an bip32Ed25519 node', async () => {
+    const node = await getNode({
+      curve: 'bip32Ed25519',
+      path: ['m', "1852'", "1815'"],
+      secretRecoveryPhrase: TEST_SECRET_RECOVERY_PHRASE_BYTES,
+    });
+
+    expect(node).toMatchInlineSnapshot(`
+      {
+        "chainCode": "0x4008460bcab45542b91b5d0c2815b3b2543432d18f4e61911c09197cb2c61333",
+        "curve": "bip32Ed25519",
+        "depth": 2,
+        "index": 2147485463,
+        "masterFingerprint": 1587894111,
+        "parentFingerprint": 2,
+        "privateKey": "0x302f663588ebab9e2c357045bd141325c1639761d616080a3e2aa313e2bc734ef63612dba17778c957a321291c5e77e80ffb4fe233b491e931f9a1de7ae550e6",
+        "publicKey": "0x14029ae278dff12653d0dec3dc0d843c40cc5301c768806e3d112f22c9f3611f",
+      }
+    `);
+  });
 });

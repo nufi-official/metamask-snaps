@@ -137,5 +137,33 @@ describe('getBip32EntropyImplementation', () => {
         }
       `);
     });
+
+    it('derives a path using bip32Ed25519', async () => {
+      const getUnlockPromise = jest.fn().mockResolvedValue(undefined);
+      const getMnemonic = jest
+        .fn()
+        .mockResolvedValue(TEST_SECRET_RECOVERY_PHRASE_BYTES);
+
+      expect(
+        // @ts-expect-error Missing other required properties.
+        await getBip32EntropyImplementation({ getUnlockPromise, getMnemonic })({
+          params: {
+            path: ['m', "1852'", "1815'", "0'", "0'", "1'"],
+            curve: 'bip32Ed25519',
+          },
+        }),
+      ).toMatchInlineSnapshot(`
+        {
+          "chainCode": "0x817a9b013e2eec99fb4f8ad02f9ce6a61bebf16f6d47ea1b1584ed20ffa5e247",
+          "curve": "bip32Ed25519",
+          "depth": 5,
+          "index": 2147483649,
+          "masterFingerprint": 1587894111,
+          "parentFingerprint": 5,
+          "privateKey": "0x88dc4994979afd94803d0a46299e1322699e23f679b71e05a4775e3cf2bc734e90afc215bdccb8850061eb1e6cd22fce64a03c66f61168d260fadfb02d20d07f",
+          "publicKey": "0x82022f5895badf5c1083a74ea70885c1af18eaa844dabc83ae60db14188dd370",
+        }
+      `);
+    });
   });
 });
