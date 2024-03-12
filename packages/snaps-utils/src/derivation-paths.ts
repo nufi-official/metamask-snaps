@@ -145,6 +145,16 @@ export const SNAPS_DERIVATION_PATHS: SnapsDerivationPath[] = [
     curve: 'ed25519',
     name: 'Vega',
   },
+  {
+    path: ['m', `1852'`, `1815'`],
+    curve: 'ed25519Bip32',
+    name: 'Cardano',
+  },
+  {
+    path: ['m', `1694'`, `1815'`],
+    curve: 'ed25519Bip32',
+    name: 'Cardano-Voting',
+  },
 ];
 
 /**
