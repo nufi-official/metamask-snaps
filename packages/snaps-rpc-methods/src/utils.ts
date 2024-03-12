@@ -2,6 +2,7 @@ import type {
   HardenedBIP32Node,
   BIP32Node,
   SLIP10PathNode,
+  CIP3PathNode,
 } from '@metamask/key-tree';
 import { SLIP10Node } from '@metamask/key-tree';
 import type { MagicValue } from '@metamask/snaps-utils';
@@ -165,17 +166,21 @@ export async function deriveEntropy({
  * @returns The path prefix, i.e., `secp256k1` or `ed25519`.
  */
 export function getPathPrefix(
-  curve: 'secp256k1' | 'ed25519',
-): 'bip32' | 'slip10' {
+  curve: 'secp256k1' | 'ed25519' | 'ed25519Bip32',
+): 'bip32' | 'slip10' | 'cip3' {
   if (curve === 'secp256k1') {
     return 'bip32';
+  }
+
+  if (curve === 'ed25519Bip32') {
+    return 'cip3';
   }
 
   return 'slip10';
 }
 
 type GetNodeArgs = {
-  curve: 'secp256k1' | 'ed25519';
+  curve: 'secp256k1' | 'ed25519' | 'ed25519Bip32';
   secretRecoveryPhrase: Uint8Array;
   path: string[];
 };
@@ -205,7 +210,8 @@ export async function getNode({
       secretRecoveryPhrase,
       ...(path.slice(1).map((index) => `${prefix}:${index}`) as
         | BIP32Node[]
-        | SLIP10PathNode[]),
+        | SLIP10PathNode[]
+        | CIP3PathNode[]),
     ],
   });
 }
